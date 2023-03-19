@@ -1,0 +1,8 @@
+setup.py
+trainer/__init__.py
+trainer/task.py
+twitchstreaming.egg-info/PKG-INFO
+twitchstreaming.egg-info/SOURCES.txt
+twitchstreaming.egg-info/dependency_links.txt
+twitchstreaming.egg-info/requires.txt
+twitchstreaming.egg-info/top_level.txt

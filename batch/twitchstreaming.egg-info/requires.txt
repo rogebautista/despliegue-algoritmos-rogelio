@@ -1,0 +1,8 @@
+apache-beam[gcp]
+tensorflow
+gensim
+fsspec
+gcsfs
+numpy
+keras
+nltk
